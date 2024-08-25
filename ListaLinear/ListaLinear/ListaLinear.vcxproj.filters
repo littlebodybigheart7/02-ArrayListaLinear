@@ -18,5 +18,8 @@
     <ClCompile Include="ListaLinear.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\KaueOliveira-tec\02-ArrayListaLinear\ListaLinear\ListaLinear\ListaLinear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

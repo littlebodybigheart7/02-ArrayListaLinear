@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\KaueOliveira-tec\02-ArrayListaLinear\ListaLinear\ListaLinear\ListaLinear.cpp" />
     <ClCompile Include="ListaLinear.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
